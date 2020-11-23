@@ -1,2 +1,2 @@
 this is a new txt!
-yes, it is a new txt.  
+no, it is not  a new txt.  
